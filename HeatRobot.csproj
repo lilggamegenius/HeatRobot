@@ -13,7 +13,7 @@
 
     <ItemGroup>
       <PackageReference Include="GetOptNet" Version="4.0.8" />
-      <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
       <PackageReference Include="NLog" Version="4.7.2" />
     </ItemGroup>
 
